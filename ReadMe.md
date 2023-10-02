@@ -1,5 +1,5 @@
 # 💫 About Me:
-Competitive Programmer<br>Web Developer<br>ML Enthusiast
+Competitive Programmer<br>Web Developer<br>
 
 
 # 💻 Tech Stack:
